@@ -1,5 +1,5 @@
 body { 
-    background: url(/Users/coreysawin/Development/code/prework/my-personal-website/images/paddlecourt.jpg) center no-repeat;
+    background: url(/Users/coreysawin/Development/code/prework/my-personal-website/images/profpic.JPG) center no-repeat;
     background-size: cover;
     background-attachment: fixed;
     font-family: Helvetica, Arial, sans-serif;
@@ -10,9 +10,6 @@ body {
     text-align: center;
     color: red;
     font-size: 50px;
-  }
-  figure{
-    text-align: center;
   }
   
   nav{
