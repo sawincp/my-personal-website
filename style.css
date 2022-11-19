@@ -2,7 +2,6 @@ body {
     background: url(/Users/coreysawin/Development/code/prework/my-personal-website/images/profpic.JPG) center no-repeat;
     background-size: cover;
     background-attachment: fixed;
-
   }
   h1 {
     text-align: center;
@@ -24,10 +23,6 @@ body {
     background-color: red;
     color: black;
   }
-  .topnav a.activate{
-    background-color:#04AA6D;
-    color: white;
-  }
 
 
   h2 {
@@ -36,7 +31,7 @@ body {
   
 
   p{
-    color:saddlebrown;
+    color:white;
     font-size: larger;
     background-color: black;
 
